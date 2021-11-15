@@ -1,1 +1,4 @@
-# tips
+# tips and tricks
+## JS
+## Python
+## Golang
